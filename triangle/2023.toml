@@ -163,24 +163,17 @@ description = '''
 [[quiz]]
 # Current: d61217dc-0edb-e21a-cb2f-6d4fd1b3686f
 # Next: a8ceae85-c140-4aa0-a30c-0172a04cb7cc
-name = ""
-description = '''
-<!-- Alipay{d61217dc0edbe21a} 8.10*15 -->
-'''
-links = [{ name = "", url = "https://file.mmf.moe/s/XKse" }]
-
-[[quiz]]
-# Current: a8ceae85-c140-4aa0-a30c-0172a04cb7cc
 name = "2023 新年快乐！"
 description = '''
-<!-- Alipay{a8ceae85c1404aa0} 20.23*10 -->
+<!-- Alipay{a8ceae85c1404aa0} 20.23*15 -->
 今年的新年红包就到这里了（x <br>
-
+<br>
 「きまぐれユモレスク」是今年的签到。延续去年的「サヨナラから始まる物語」，用一首歌作为每年红包的开始似乎也不错？<br>
 「Sea, You Next」是在使用 JsFiddle 时候产生的突发奇想，能做出来的人数应该不会太少吧。标题中的 Next 也暗示了通过“下一个版本”的方式来寻找 UUID 的内容。<br>
-「重排（yue）」是 <a href="https://github.com/Innei/shuffle-article">shuffle-article</a> 带来的灵感，当时直接在 issue 里贴出了解法，不知道有没有直接用这个解的（笑）<br>
-「」是
-从整体来说，今年的出题还是偏简单的。前三道其实都没有怎么卡难度/脑洞，希望在有趣程度上能够胜过去年（
+「重排（yue）」是 <a href="https://github.com/Innei/shuffle-article">shuffle-article</a> 带来的灵感，当时直接在 issue 里贴出了解法，不知道有没有直接用这个解的（<br>
 <br>
-<br><br>
+从整体来说，今年的出题还是偏简单的。所有题目其实都没有怎么卡难度/脑洞。本来是准备第四题延续去年的 Rust Web，但这次想到的题面还是不大适合以 Web 的形式交互，于是就只剩下了三题。希望在有趣程度上能够胜过去年（<br>
+由于年前的事务比较繁忙，今年的红包脑洞有所减弱，希望明年能加大强度（<br>
+<br>
+总之，新年快乐！
 '''
